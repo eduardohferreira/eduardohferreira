@@ -1,8 +1,9 @@
 ## Olá! Eu sou o Eduardo Henrique👋
 
- #### Analista de Dados & Business Intelligence
+ #### Analista de Dados & Business Intelligence 📈
  
- - Estudando Python & SQL
+ 
+🖥️ - Estudando Python & SQL
 
 
 
