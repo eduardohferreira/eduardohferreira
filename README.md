@@ -12,7 +12,7 @@
 
 💬 1% melhor todos os dias!
 
-https://contate.me/eduardohferreira
+
 
 
 
