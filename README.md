@@ -3,7 +3,11 @@
  #### Analista de Dados & Business Intelligence 📈
  
  
-🖥️ - Estudando Python & SQL
+🌵 Sou Mineiro
+👩‍💻 Atualmente estudando para ingressar na área de dados
+💻 Participante do Grupo de estudos da Evolve Data
+🛠️ Python, SQL, Excel, Power BI
+💬 1% melhor todos os dias!
 
 
 
